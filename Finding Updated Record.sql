@@ -22,7 +22,7 @@ ms_employee_salary
 /*
 📷 Preview of Table:
 - ms_employee_salary:
-  [Image](/images/ms_employee_salary_preview.png)
+  [Image](/images/ms_employee_salary_preview.jpeg)
 */
 
 /*
