@@ -32,6 +32,8 @@ ms_employee_salary
 | 1  | John       | Smith     | 2              | 80000  |
 ... (and so on)
 
+🖼️ Screenshot:
+[Image](/images/current_salary_output.jpeg)
 */
 
 /*
