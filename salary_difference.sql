@@ -30,7 +30,7 @@ db_dept
 - db_employee:
   
 - db_dept:
-  
+  images/db_dept_preview.jpeg
 */
 
 /*
