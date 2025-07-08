@@ -28,9 +28,9 @@ db_dept
 /*
 📷 Preview of Tables:
 - db_employee:
-  
+    [Image](/images/db_employee_preview.jpeg)
 - db_dept:
-  images/db_dept_preview.jpeg
+    [Image](/images/db_dept_preview.jpeg)
 */
 
 /*
